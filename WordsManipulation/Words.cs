@@ -42,7 +42,6 @@ namespace WordsManipulation
             UI_Label.Text = "Loaded " + _words.Count().ToString() + " words!";
         }
 
-
         // *************    EVENT HANDLERS     ************* //
         private void UI_BTN_Palindromes_Click(object sender, EventArgs e)
         {
